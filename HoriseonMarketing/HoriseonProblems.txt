@@ -1,0 +1,7 @@
+Needed to add semantic HTML elements
+Needed to add <alt> descriptions to the images
+Needed to add a descriptive title
+Needed to change the website's name
+Needed tomatch the color scheme
+Make all the buttons work (search engine optimization)
+CSS was not optimized
